@@ -1,0 +1,112 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "name": "Physics",
+      "tags": [],
+      "description": "Physics 101",
+      "activities": [
+        {
+          "type": "question",
+          "components": [
+            {
+              "type": "rich-text",
+              "props": {
+                "content": "<h1>this is an h1</h1>"
+              }
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "components": [
+            {
+              "type": "image",
+              "props": {
+                "url": "https://images.unsplash.com/photo-1515787366009-7cbdd2dc587b"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "nickname": "Mickey",
+      "notes": "some notes",
+      "id": 1,
+      "classes": []
+    },
+    {
+      "nickname": "Johnny",
+      "notes": "some notes",
+      "classes": [],
+      "id": 2
+    },
+    {
+      "nickname": "fdfds",
+      "email": "fdsfds",
+      "classes": ["ffd"],
+      "notes": "fdsfdsfds",
+      "id": 3
+    }
+  ],
+  "submissions": [
+    {
+      "studentId": 1,
+      "lessonId": 1,
+      "status": "overdue",
+      "due": "22/01/2021",
+      "completed": "23/01/2021",
+      "mark": "A+"
+    }
+  ],
+  "classes": [
+    {
+      "name": "Maths",
+      "notes": "Some notes",
+      "id": 1
+    },
+    {
+      "name": "Physics",
+      "notes": "Hello world",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "notes": "fdsfds",
+      "id": 3
+    },
+    {
+      "name": "fdsfds",
+      "notes": "fdsfdsfds",
+      "id": 4
+    },
+    {
+      "name": "fdsfds",
+      "notes": "fdsfdsfds",
+      "id": 5
+    },
+    {
+      "name": "Something",
+      "notes": "test",
+      "id": 6
+    },
+    {
+      "name": "hello",
+      "notes": "another one",
+      "id": 7
+    },
+    {
+      "name": "another one",
+      "notes": "hello",
+      "id": 8
+    },
+    {
+      "name": "fdjsaklfjdkls",
+      "notes": "fjdkslfdsfds",
+      "id": 9
+    }
+  ]
+}
