@@ -44,13 +44,6 @@
       "classes": [],
       "id": 2
     },
-    {
-      "nickname": "fdfds",
-      "email": "fdsfds",
-      "classes": ["ffd"],
-      "notes": "fdsfdsfds",
-      "id": 3
-    }
   ],
   "submissions": [
     {
@@ -65,48 +58,13 @@
   "classes": [
     {
       "name": "Maths",
-      "notes": "Some notes",
+      "notes": "Maths 101",
       "id": 1
     },
     {
       "name": "Physics",
-      "notes": "Hello world",
+      "notes": "Introduction to physics",
       "id": 2
-    },
-    {
-      "name": "test",
-      "notes": "fdsfds",
-      "id": 3
-    },
-    {
-      "name": "fdsfds",
-      "notes": "fdsfdsfds",
-      "id": 4
-    },
-    {
-      "name": "fdsfds",
-      "notes": "fdsfdsfds",
-      "id": 5
-    },
-    {
-      "name": "Something",
-      "notes": "test",
-      "id": 6
-    },
-    {
-      "name": "hello",
-      "notes": "another one",
-      "id": 7
-    },
-    {
-      "name": "another one",
-      "notes": "hello",
-      "id": 8
-    },
-    {
-      "name": "fdjsaklfjdkls",
-      "notes": "fjdkslfdsfds",
-      "id": 9
     }
   ]
 }
